@@ -1,0 +1,23 @@
+// import { render, screen } from '@testing-library/react';
+// import App from "./App";
+it("",  ()=>{
+  expect(true).toBe(true);
+
+});
+// describe("Filter Buttons", () => {
+//   it("should include text for All, Active and Completed buttons", () => {
+//     const { container } = render(App);
+//     expect(container).toHaveTextContent("All");
+//     expect(container).toHaveTextContent("Active");
+//     expect(container).toHaveTextContent("Completed");
+    
+//   });
+
+//   // it("should have three buttons visible", () => {
+//   //   const { container } = render(FilterButton);
+    
+//   //   expect(screen.getByTestId(container, 'button-all')).toBeVisible();
+//   //   expect(screen.getByTestId(container, 'button-completed')).toBeVisible();
+//   //   expect(screen.getByTestId(container, 'button-active')).toBeVisible();
+//   // });
+// });
